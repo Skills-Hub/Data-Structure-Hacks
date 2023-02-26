@@ -8,7 +8,7 @@ Whether you are a beginner or an experienced developer, this repository is an ex
 
 ## Subjects 
 ### Basic Data Structures:
-#### Arrays
+##### Arrays
 #### Linked Lists
 #### Stacks
 #### Queues
